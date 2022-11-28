@@ -25,18 +25,18 @@ export const sliderItems = [
   export const categories = [
     {
       id: 1,
-      img: "https://images.pexels.com/photos/5886041/pexels-photo-5886041.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      title: "SHIRT STYLE!",
+      img: "https://ichef.bbci.co.uk/news/976/cpsprodpb/10B12/production/_126607386_infinitedfibersclothesexamples.jpg.webp",
+      title: "CLOTHING",
     },
     {
       id: 2,
-      img: "https://images.pexels.com/photos/2983464/pexels-photo-2983464.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      title: "LOUNGEWEAR LOVE",
+      img: "https://ugtechmag.com/wp-content/uploads/2020/04/Odukar-Store-ugtechmag.jpeg",
+      title: "ELECTRONICS",
     },
     {
       id: 3,
-      img: "https://images.pexels.com/photos/5480696/pexels-photo-5480696.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
-      title: "LIGHT JACKETS",
+      img: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/zara-faux-shearling-chair-1654548559.jpeg?crop=1.00xw:0.668xh;0,0.258xh&resize=768:*",
+      title: "FURNITURE",
     },
   ];
 
